@@ -1,0 +1,111 @@
+2025-05-13 16:32:28 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Cookie popup dismissed.
+2025-05-13 16:32:28 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Products
+2025-05-13 16:32:35 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/products
+2025-05-13 16:32:47 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Products': Expected condition failed: waiting for visibility of element located by By.xpath: //a[contains(text(),'Request demo')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51313/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ea9d527d3ca0d03ae8ef7ff651e3154
+2025-05-13 16:32:47 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Solutions
+2025-05-13 16:32:47 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Solutions': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ea9d527d3ca0d03ae8ef7ff651e3154, clickElement [id]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51313/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9ea9d527d3ca0d03ae8ef7ff651e3154)] -> xpath: //a[contains(normalize-space(),'Solutions')]]
+Session ID: 9ea9d527d3ca0d03ae8ef7ff651e3154
+2025-05-13 16:32:47 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Resources': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ea9d527d3ca0d03ae8ef7ff651e3154, findElements [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51313/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ea9d527d3ca0d03ae8ef7ff651e3154
+2025-05-13 16:32:47 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Beyond RPA': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ea9d527d3ca0d03ae8ef7ff651e3154, findElements [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51313/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ea9d527d3ca0d03ae8ef7ff651e3154
+2025-05-13 16:32:47 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Company': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ea9d527d3ca0d03ae8ef7ff651e3154, findElements [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51313/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ea9d527d3ca0d03ae8ef7ff651e3154
+2025-05-13 16:45:01 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Cookie popup dismissed.
+2025-05-13 16:45:01 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Products
+2025-05-13 16:45:05 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/products
+2025-05-13 16:45:06 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Solutions
+2025-05-13 16:45:08 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/solutions
+2025-05-13 16:45:20 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Resources': java.lang.InterruptedException: sleep interrupted
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: driver.version: unknown
+2025-05-13 16:45:20 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Beyond RPA': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2795e192048cde533277d1733ff128b5, findElements [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52480}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52480/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2795e192048cde533277d1733ff128b5
+2025-05-13 16:45:20 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Company': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2795e192048cde533277d1733ff128b5, findElements [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52480}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52480/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2795e192048cde533277d1733ff128b5
+2025-05-13 16:49:58 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Cookie popup dismissed.
+2025-05-13 16:49:58 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Products
+2025-05-13 16:50:04 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/products
+2025-05-13 16:50:06 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Solutions
+2025-05-13 16:50:09 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/solutions
+2025-05-13 16:50:17 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Resources': java.lang.InterruptedException: sleep interrupted
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: driver.version: unknown
+2025-05-13 16:50:17 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Beyond RPA': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [339f171e88107b396caf514cc0fdfe35, findElements [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52830}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52830/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 339f171e88107b396caf514cc0fdfe35
+2025-05-13 16:50:17 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Company': Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [339f171e88107b396caf514cc0fdfe35, findElements [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52830}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52830/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 339f171e88107b396caf514cc0fdfe35
+2025-05-13 16:56:06 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Cookie popup dismissed.
+2025-05-13 16:56:06 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Products
+2025-05-13 16:56:09 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/products
+2025-05-13 16:56:11 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Solutions
+2025-05-13 16:56:13 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/solutions
+2025-05-13 16:56:25 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Resources': Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (1a3a26abc5d64aa56cdad1e4288f5342)] -> xpath: //a[contains(normalize-space(),'Resources')]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53276}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53276/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a3a26abc5d64aa56cdad1e4288f5342
+2025-05-13 16:56:25 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Menu link not found: Beyond RPA
+2025-05-13 16:56:25 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Menu link not found: Company
+2025-05-13 17:38:47 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Cookie popup dismissed.
+2025-05-13 17:38:47 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Products
+2025-05-13 17:38:51 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/products
+2025-05-13 17:38:53 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Clicking on menu item: Solutions
+2025-05-13 17:38:55 [TestNG-method=testHeaderLinks-1] INFO  TestAutomationAnywhere - Navigated to URL: https://www.automationanywhere.com/solutions
+2025-05-13 17:39:07 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Error while handling menu item 'Resources': Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (75bf25225b5a38083ae1594cf6d7f9ea)] -> xpath: //a[contains(normalize-space(),'Resources')]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\SAHASR~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55391}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55391/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75bf25225b5a38083ae1594cf6d7f9ea
+2025-05-13 17:39:07 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Menu link not found: Beyond RPA
+2025-05-13 17:39:07 [TestNG-method=testHeaderLinks-1] ERROR TestAutomationAnywhere - Menu link not found: Company

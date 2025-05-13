@@ -1,0 +1,2 @@
+2025-05-13 17:35:01 [main] INFO  ReadAndWriteData - {Fee=$100, Courses=Java, Name=Kirk}
+2025-05-13 17:35:01 [main] INFO  ReadAndWriteData - {Fee=$100, Courses=Python, Name=Dan}
